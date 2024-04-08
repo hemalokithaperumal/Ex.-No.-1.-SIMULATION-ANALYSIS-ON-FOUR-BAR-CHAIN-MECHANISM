@@ -53,7 +53,7 @@
 
 
 ## Output:
-![OUTPUT](1.png)
+![OUTPUT](<Screenshot 2024-04-08 230806.png>)
 
 ### Name: HEMA  LOKITHA P
 ### Register Number: 212223110014
